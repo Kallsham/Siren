@@ -4,8 +4,8 @@ compatibility_date = "2024-05-23"
 minify = true
 
 [[kv_namespaces]]
-binding = "SIREN"
-id = "216a79ea5462492da7aa737cc8d7a2af"
+binding = "MIMI"
+id = "a64a3b6fadbf4ccaa8799e7ee765129f"
 
 [build]
 command = "cargo install worker-build && worker-build --release"
@@ -14,6 +14,6 @@ command = "cargo install worker-build && worker-build --release"
 build = { command = "cargo install worker-build && worker-build --dev" }
 
 [vars]
-UUID = "f282b878-8711-45a1-8c69-5564172123c1"
-MAIN_PAGE_URL = "https://raw.githubusercontent.com/FoolVPN-ID/Siren/refs/heads/master/web/index.html"
-SUB_PAGE_URL = "https://raw.githubusercontent.com/FoolVPN-ID/Siren/refs/heads/master/web/sub.html"
+UUID = "735da032-9bd4-4f22-9005-50f6cdf18ed7"
+MAIN_PAGE_URL = "https://raw.githubusercontent.com/Kallsham/Siren/refs/heads/master/web/index.html"
+SUB_PAGE_URL = "https://raw.githubusercontent.com/Kallsham/Siren/refs/heads/master/web/sub.html"
